@@ -1,4 +1,4 @@
- Getachew Tizazu 👋
+# Getachew Tizazu 👋
 
 🎓 Physicist | Nanotechnology Researcher | Machine Learning for Materials Science
 
