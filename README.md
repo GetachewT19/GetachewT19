@@ -10,7 +10,8 @@ I work on **nanoparticles, optical properties, and AI-driven materials discovery
 
 - Nanoparticle optics (Mie theory )
 - Silver and ZnO nanoparticles
-- Machine learning for nanomaterials
+- Machine learning for nanomaterials               <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/5c51cacc-f3ee-4b0a-a4f7-2377d4ac2ed7" />
+
 - Symbolic regression for physical laws
 - Antibacterial nanomaterials
 
