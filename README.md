@@ -8,7 +8,7 @@ I work on **nanoparticles, optical properties, and AI-driven materials discovery
 
 ## 🔬 Research Interests
 
-- Nanoparticle optics (Mie theory)
+- Nanoparticle optics (Mie theory )
 - Silver and ZnO nanoparticles
 - Machine learning for nanomaterials
 - Symbolic regression for physical laws
